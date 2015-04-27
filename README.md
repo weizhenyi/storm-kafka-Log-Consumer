@@ -1,0 +1,1 @@
+This is a log data processing application by storm from kafka cluster and finally stored to Hbase
